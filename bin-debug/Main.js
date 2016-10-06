@@ -611,6 +611,14 @@ var Main = (function (_super) {
             streetdreams.touchEnabled = true;
             snowhalation.touchEnabled = true;
             twilight.touchEnabled = true;
+            flowerdance.rotation = 0;
+            egret.Tween.removeTweens(flowerdance);
+            streetdreams.rotation = 0;
+            egret.Tween.removeTweens(streetdreams);
+            snowhalation.rotation = 0;
+            egret.Tween.removeTweens(snowhalation);
+            twilight.rotation = 0;
+            egret.Tween.removeTweens(twilight);
         }
         var flowerloader = new egret.URLLoader();
         flowerloader.dataFormat = egret.URLLoaderDataFormat.SOUND;
