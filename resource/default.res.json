@@ -1,0 +1,125 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,01_jpg,02_jpg,03_jpg,04_jpeg,avatar_png,COD_jpg,CORPSE_jpg,HOI_jpg,SNH_jpg,STREETDREAMS_mp3,SNOWHALATION_mp3,TWILIGHT_mp3,snowhalation_jpg,flowerdance_png,FLOWERDANCE_mp3,twilight_jpg,streetdreams_jpg,universe_jpg,brother_jpg,wealth_jpg",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "01_jpg",
+			"type": "image",
+			"url": "01.jpg"
+		},
+		{
+			"name": "02_jpg",
+			"type": "image",
+			"url": "02.jpg"
+		},
+		{
+			"name": "03_jpg",
+			"type": "image",
+			"url": "03.jpg"
+		},
+		{
+			"name": "04_jpeg",
+			"type": "image",
+			"url": "04.jpeg"
+		},
+		{
+			"name": "avatar_png",
+			"type": "image",
+			"url": "avatar.png"
+		},
+		{
+			"name": "COD_jpg",
+			"type": "image",
+			"url": "COD.jpg"
+		},
+		{
+			"name": "CORPSE_jpg",
+			"type": "image",
+			"url": "CORPSE.jpg"
+		},
+		{
+			"name": "HOI_jpg",
+			"type": "image",
+			"url": "HOI.jpg"
+		},
+		{
+			"name": "SNH_jpg",
+			"type": "image",
+			"url": "SNH.jpg"
+		},
+		{
+			"name": "STREETDREAMS_mp3",
+			"type": "sound",
+			"url": "STREETDREAMS.mp3"
+		},
+		{
+			"name": "SNOWHALATION_mp3",
+			"type": "sound",
+			"url": "SNOWHALATION.mp3"
+		},
+		{
+			"name": "TWILIGHT_mp3",
+			"type": "sound",
+			"url": "TWILIGHT.mp3"
+		},
+		{
+			"name": "snowhalation_jpg",
+			"type": "image",
+			"url": "snowhalation.jpg"
+		},
+		{
+			"name": "flowerdance_png",
+			"type": "image",
+			"url": "flowerdance.png"
+		},
+		{
+			"name": "FLOWERDANCE_mp3",
+			"type": "sound",
+			"url": "FLOWERDANCE.mp3"
+		},
+		{
+			"name": "twilight_jpg",
+			"type": "image",
+			"url": "twilight.jpg"
+		},
+		{
+			"name": "streetdreams_jpg",
+			"type": "image",
+			"url": "streetdreams.jpg"
+		},
+		{
+			"name": "universe_jpg",
+			"type": "image",
+			"url": "universe.jpg"
+		},
+		{
+			"name": "brother_jpg",
+			"type": "image",
+			"url": "brother.jpg"
+		},
+		{
+			"name": "wealth_jpg",
+			"type": "image",
+			"url": "wealth.jpg"
+		}
+	]
+}
